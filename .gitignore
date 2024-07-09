@@ -1,0 +1,8 @@
+Logs/
+Index/
+Build/
+TextIndex/
+*.xcodeproj/
+*.plist
+*.xcscmblueprint
+*.xcactivitylog
