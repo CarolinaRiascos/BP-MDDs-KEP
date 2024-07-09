@@ -8,11 +8,11 @@ title: "BP-MDDs-KEP"
 version: "1.0.0"
 preferred-citation:
   type: article
-  authors:
+  authors: 
     -
         affiliation: "University of Toronto"
-        family-names: "Riascos-\{'}Alvarez"
-        given-names: Lizeth Carolina
+        family-names: "Riascos-Álvarez"
+        given-names: Lizeth C.
     -
         affiliation: "University of Toronto"
         family-names: Bodur
