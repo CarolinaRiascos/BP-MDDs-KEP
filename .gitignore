@@ -5,4 +5,4 @@ TextIndex/
 *.xcodeproj/
 *.plist
 *.xcscmblueprint
-*.xcactivitylog
+*.xcactivitylog.DS_Store
