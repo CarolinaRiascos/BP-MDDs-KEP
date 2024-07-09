@@ -1,0 +1,26 @@
+cff-version: "1.2.0"
+date-released: 2024-06-04
+doi: "https://doi.org/10.1287/msom.2022.0192"
+license: "MIT"
+repository-code: "https://github.com/CarolinaRiascos/BP-MDDs-KEP"
+url: "https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.0192"
+title: "BP-MDDs-KEP"
+version: "1.0.0"
+preferred-citation:
+  type: article
+  authors:
+    -
+        affiliation: "University of Toronto"
+        family-names: "Riascos-\{'}Alvarez"
+        given-names: Lizeth Carolina
+    -
+        affiliation: "University of Toronto"
+        family-names: Bodur
+        given-names: Merve
+    -
+        affiliation: "University of Toronto"
+        family-names: Aleman
+        given-names: Dionne M.
+  month: 10
+  title: "A Branch-and-Price Algorithm Enhanced by Decision Diagrams for the Kidney Exchange Problem"
+  year: 2023
